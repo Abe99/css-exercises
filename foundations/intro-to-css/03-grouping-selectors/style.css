@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+button {
+  font-size: 60px;
+}
+#black {
+  color: white;
+  background-color: black;
+}
+#yellow {
+  color: black;
+  background-color: yellow;
+}
